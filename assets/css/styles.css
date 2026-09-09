@@ -1,5 +1,24 @@
 /* styles.css */
 
-* {
-	font-family: Arial;
+
+  h1 {
+	color: rgb(102, 100, 138);
+	padding: 40px;
+	font-size: 70px;
+	
+  }
+
+h2 { font-family: "Archivo Black", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: rgb(54, 111, 147);
+	font-size: 50px;
 }
+
+
+ body {
+	background: #6fe7f7;
+background: linear-gradient(187deg, rgba(111, 231, 247, 1) 21%, rgba(128, 255, 229, 1) 40%, rgba(218, 223, 235, 1) 88%, rgba(218, 223, 235, 1) 68%);
+padding: 60px;
+
+ } 
